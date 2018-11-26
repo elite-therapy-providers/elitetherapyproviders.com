@@ -1,12 +1,11 @@
 # Elite Therapy Providers Website
 
-> Angular 5.x app served through Angular CLI, styled using [Sass](https://sass-lang.com/) using [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/#/)
+> Angular 7.0.x app served through Angular CLI, styled using [Sass](https://sass-lang.com/) using [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/#/)
 
 ## Improvements
 
 - [ ] add more content @kevin
 - [ ] typeform content from @kevin
-- [ ] upgrade to current Angular version
 - [ ] add testing framework
 
 ## Development server
