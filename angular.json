@@ -11,12 +11,12 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist",
+            "outputPath": "docs",
             "index": "src/index.html",
             "main": "src/main.ts",
             "tsConfig": "src/tsconfig.app.json",
             "polyfills": "src/polyfills.ts",
-            "assets": ["src/assets", "src/favicon.ico"],
+            "assets": ["src/assets", "src/favicon.ico", "src/CNAME"],
             "styles": ["src/styles.scss"],
             "scripts": [
               "node_modules/jquery/dist/jquery.slim.min.js",
@@ -74,7 +74,7 @@
               "node_modules/bootstrap/dist/js/bootstrap.min.js"
             ],
             "styles": ["src/styles.scss"],
-            "assets": ["src/assets", "src/favicon.ico"]
+            "assets": ["src/assets", "src/favicon.ico", "src/CNAME"]
           }
         },
         "lint": {

@@ -35,7 +35,7 @@ ng serve
 1. Build gh-pages project and store in the `docs` directory.
 
 ```
-ng build --prod --output-path docs --base-href /
+npm run deploy
 ```
 
 ## Running unit tests
